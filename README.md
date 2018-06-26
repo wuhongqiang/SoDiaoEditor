@@ -27,7 +27,7 @@
 
 1.  可邮件至[dd@sodiao.org](mailto://dd@sodiao.org/)；
 
-## 打赏
+## 打赏 修改
 
 ![image](data/img/ds.png)
 
